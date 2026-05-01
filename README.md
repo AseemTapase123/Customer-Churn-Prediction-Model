@@ -1,4 +1,4 @@
-# 📱 Telecom Customer Churn Prediction
+📊 Customer Churn Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)
